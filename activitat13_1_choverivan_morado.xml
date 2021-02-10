@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libros>
+    <libro tapa="blanda">
+        <titulo>Cronicas marcianas</titulo>
+        <autor>Ray Bradbury</autor>
+        <editorial>minotauro</editorial>
+        <fecha_publicacion>1901</fecha_publicacion>
+        <isbn>9788445076538</isbn>
+    </libro>
+    <libro tapa="blanda">
+        <titulo>Zombies de Leningrado</titulo>
+        <autor>Javier Cosnava</autor>
+        <editorial>doolmen books</editorial>
+        <fecha_publicacion>2015</fecha_publicacion>
+        <isbn>9788415932956</isbn>
+    </libro>
+    <libro tapa="dura">
+        <titulo>Ubik</titulo>
+        <autor>The fucking god Philip Kindred Dick</autor>
+        <editorial>minotauro</editorial>
+        <fecha_publicacion>2011</fecha_publicacion>
+        <isbn>9788445078303</isbn>
+    </libro>
+    <libro tapa="blanda">
+        <titulo>El guardian entre el centeno</titulo>
+        <autor>J.D Sallinger</autor>
+        <editorial>Alianza editorial</editorial>
+        <fecha_publicacion>2010</fecha_publicacion>
+        <isbn>9788420674209</isbn>
+    </libro>
+    <libro tapa="blanda">
+        <titulo>Las puertas de la percepcion/Cielo e infierno</titulo>
+        <autor>Aldous Huxley</autor>
+        <editorial>edhasa</editorial>
+        <fecha_publicacion>2002</fecha_publicacion>
+        <isbn>9788435018609</isbn>
+    </libro>
+</libros>

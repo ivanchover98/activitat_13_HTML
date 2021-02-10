@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eventos_carretera>
+    <evento_1 senal="accidente">
+        <pto_km>42.200</pto_km>
+        <nombre_via>A-49</nombre_via>
+        <sentido>huelva</sentido>
+        <numero_cortes_carril>1</numero_cortes_carril>
+        <fecha_y_hora>NULL</fecha_y_hora>
+        <retencion>si</retencion>
+        <km_retencion>8</km_retencion>
+    </evento_1>
+    <evento_2 senal="retencion">
+        <pto_km>550</pto_km>
+        <nombre_via>a-4</nombre_via>
+        <sentido>sevilla</sentido>
+        <numero_cortes_carril>0</numero_cortes_carril>
+        <fecha_y_hora>NULL</fecha_y_hora>
+        <retencion>si</retencion>
+        <km_retencion>3</km_retencion>
+    </evento_2>
+</eventos_carretera>
